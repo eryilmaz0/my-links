@@ -14,6 +14,11 @@
       "icon": "github"
     },
     {
+      "title": "Medium",
+      "url": "https://eryilmaz0.medium.com",
+      "icon": "medium"
+    },
+    {
       "title": "Twitter",
       "url": "https://twitter.com/er_yilmaz0",
       "icon": "twitter"
@@ -27,11 +32,6 @@
       "title": "LeetCode",
       "url": "https://leetcode.com/eryilmaz/",
       "icon": "click"
-    },
-    {
-      "title": "Medium",
-      "url": "https://leetcode.com/eryilmaz/",
-      "icon": "medium"
     }
   ]
 }
