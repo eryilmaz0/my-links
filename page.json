@@ -27,6 +27,11 @@
       "title": "LeetCode",
       "url": "https://leetcode.com/eryilmaz/",
       "icon": "click"
+    },
+    {
+      "title": "Medium",
+      "url": "https://leetcode.com/eryilmaz/",
+      "icon": "medium"
     }
   ]
 }
